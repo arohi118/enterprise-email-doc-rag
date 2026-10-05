@@ -1,0 +1,29 @@
+[
+  {
+    "id": "DOC-1001",
+    "type": "email",
+    "department": "Wealth Management",
+    "classification": "Confidential",
+    "allowed_roles": ["Wealth_Advisor", "Managing_Director"],
+    "subject": "Q3 Liquidity Allocations & Capital Calls",
+    "content": "Regarding Partners Group Private Wealth Fund: The final Q3 liquidity settlement is scheduled for September 30. Total capital call distribution stands at 45M USD with primary allocations into European infrastructure assets."
+  },
+  {
+    "id": "DOC-1002",
+    "type": "memo",
+    "department": "Compliance",
+    "classification": "Public_Internal",
+    "allowed_roles": ["Employee", "Wealth_Advisor", "Managing_Director"],
+    "subject": "Annual KYC and Anti-Money Laundering Review Checklist",
+    "content": "All client portfolios exceeding 10M USD in gross non-cash assets must undergo mandatory annual KYC refresh checks by October 15. Discrepancies in beneficial ownership records will trigger automatic account freezing within 48 hours."
+  },
+  {
+    "id": "DOC-1003",
+    "type": "email",
+    "department": "Trading Ops",
+    "classification": "Restricted",
+    "allowed_roles": ["Managing_Director"],
+    "subject": "Ultra-High Net Worth Credit Line Restructuring",
+    "content": "Client portfolio 8892-A margin credit line restructuring has been authorized up to 120M USD at SOFR + 85 bps collateralized against tier-1 sovereign debt."
+  }
+]
